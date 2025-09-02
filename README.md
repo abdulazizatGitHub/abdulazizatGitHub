@@ -9,7 +9,7 @@
 🎓 Currently pursuing **MS in Artificial Intelligence** at **Bahria University, Islamabad**  
 🎓 Graduated with **BS in Software Engineering** from **COMSATS University, Abbottabad Campus**  
 🔬 Passionate about **Generative AI, Deep Learning, and solving data imbalance & mode collapse in GANs**  
-💻 Experienced in **MERN Stack Development, Laravel, REST APIs, Firebase, and Full-Stack Web Applications**  
+💻 Experienced in **MERN Stack Development, REST APIs, Firebase, and Full-Stack Web Applications**  
 📚 Strong foundation in **AI research, software architecture, and scalable system design**  
 🌱 Currently learning **MLOps, advanced AI architectures, and cloud-based AI deployment**  
 🤝 Open to **collaborations, research opportunities, and freelance projects**  
