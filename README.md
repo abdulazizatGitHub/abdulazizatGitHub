@@ -40,7 +40,7 @@
 *Designed & implemented a Dynamic Class-Weighted GAN (DCSW-GAN) to solve data imbalance in intrusion detection systems (UNSW-NB15, CICIDS-2017 datasets). Tools: PyTorch, TensorFlow.*  
 
 🔹 [**E-Commerce Web Application**](https://github.com/abdulazizatGitHub/E-Commerce-Application)  
-*Full-stack application with **Laravel (backend)** + **React (frontend)**, including product browsing, cart management, authentication, and admin panel.*  
+*Full-stack application with **Node (backend)** + **React (frontend)**, including product browsing, cart management, authentication, and admin panel.*  
 
 🔹 [**Laboratory Management System (LMS)**](https://github.com/abdulazizatGitHub/Laboratory-Management-System)  
 *Management system for lab resources with structured modules for efficiency and usability.*  
