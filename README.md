@@ -7,7 +7,7 @@
 
 ## 🚀 About Me
 🎓 Currently pursuing **MS in Artificial Intelligence** at **Bahria University, Islamabad**  
-🎓 Graduated with **BS in Software Engineering** from **COMSATS University, Abbottabad Campus (CGPA 3.52/4.0 ≈ 88%)**  
+🎓 Graduated with **BS in Software Engineering** from **COMSATS University, Abbottabad Campus**  
 🔬 Passionate about **Generative AI, Deep Learning, and solving data imbalance & mode collapse in GANs**  
 💻 Experienced in **MERN Stack Development, Laravel, REST APIs, Firebase, and Full-Stack Web Applications**  
 📚 Strong foundation in **AI research, software architecture, and scalable system design**  
@@ -19,7 +19,7 @@
 ## 🛠️ Tech Stack
 
 ### 💻 Programming Languages
-- **Python** | **JavaScript** | **Java** | **C#** | **HTML** | **CSS**
+- **Python** | **JavaScript** | **Java** | **HTML** | **CSS**
 
 ### 🤖 Artificial Intelligence & Research
 - **Machine Learning**, **Deep Learning**, **Generative AI (GANs)**
@@ -27,7 +27,7 @@
 
 ### 🌐 Web & Application Development
 - **MERN Stack (MongoDB, Express.js, React.js, Node.js)**  
-- **Laravel**, **REST APIs**, **Firebase**, **React Native**
+- **REST APIs**, **Firebase**
 
 ### ⚙️ Tools & Platforms
 - **Git & GitHub** | **VS Code** | **Canva** | **Jupyter Notebook** | **Postman**
@@ -36,7 +36,7 @@
 
 ## 📂 Featured Projects
 
-🔹 [**Intrusion Detection in IoT using GANs**](#)  
+🔹 [**Intrusion Detection in IoT using GANs**](https://github.com/mahadwajid/idsfypnew)  
 *Designed & implemented a Dynamic Class-Weighted GAN (DCSW-GAN) to solve data imbalance in intrusion detection systems (UNSW-NB15, CICIDS-2017 datasets). Tools: PyTorch, TensorFlow.*  
 
 🔹 [**E-Commerce Web Application**](https://github.com/abdulazizatGitHub/E-Commerce-Application)  
