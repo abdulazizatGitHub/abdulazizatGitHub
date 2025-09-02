@@ -69,23 +69,6 @@
 
 ---
 
-## 📈 Contribution Graph (snake)
-> The animated contribution-graph **snake** will appear below once the GitHub Action runs and commits the generated SVG to this repo.
-
-![Contribution snake](output/github-contribution-grid-snake.svg)
-
-> Optional (dark-mode): If you generate a dark-mode version add a second file `output/github-contribution-grid-snake-dark.svg` and replace the image block with the `<picture>` block below for automatic light/dark switching:
->
-> ```html
-> <picture>
->   <source media="(prefers-color-scheme: dark)" srcset="output/github-contribution-grid-snake-dark.svg" />
->   <source media="(prefers-color-scheme: light)" srcset="output/github-contribution-grid-snake.svg" />
->   <img alt="GitHub contribution grid snake" src="output/github-contribution-grid-snake.svg" />
-> </picture>
-> ```
-
----
-
 ## 🌐 Connect With Me
 
 <p align="center">
