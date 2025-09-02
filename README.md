@@ -37,13 +37,22 @@
 ## 📂 Featured Projects
 
 🔹 [**Intrusion Detection in IoT using GANs**](https://github.com/mahadwajid/idsfypnew)  
-*Designed & implemented a Dynamic Class-Weighted GAN (DCSW-GAN) to solve data imbalance in intrusion detection systems (UNSW-NB15, CICIDS-2017 datasets). Tools: PyTorch, TensorFlow.*  
+*Designed & implemented a **Dynamic Class-Weighted GAN (DCSW-GAN)** to address data imbalance in intrusion detection systems (UNSW-NB15, CICIDS-2017 datasets). Tools: PyTorch, TensorFlow. Produced stronger multi-class classification performance for IoT security.*  
 
 🔹 [**E-Commerce Web Application**](https://github.com/abdulazizatGitHub/E-Commerce-Application)  
-*Full-stack application with **Node (backend)** + **React (frontend)**, including product browsing, cart management, authentication, and admin panel.*  
+*Full-stack web application with **Node.js (backend)** + **React.js (frontend)**. Features include product browsing, cart management, authentication, and an admin panel for managing products and users.*  
 
 🔹 [**Laboratory Management System (LMS)**](https://github.com/abdulazizatGitHub/Laboratory-Management-System)  
-*Management system for lab resources with structured modules for efficiency and usability.*  
+*Resource management system for laboratories with modules for inventory, staff, and scheduling. Built with clean architecture to ensure maintainability and scalability.*  
+
+🔹 [**PantryMind – AI Powered Recipe Generator**](https://github.com/abdulazizatGitHub/PantryMind)  
+*Hackathon project leveraging **AI + RecipeNLG dataset** to generate recipes based on pantry items and expiry tracking. Built with Python (Flask backend) + React frontend.*  
+
+🔹 [**Virtual Try-On (CP-VTON)**](https://github.com/abdulazizatGitHub/virtual-try-on)  
+*Flask-based AI backend integrating **CP-VTON** for realistic virtual clothing try-on. Handles image preprocessing, inference, and secure file uploads.*  
+
+🔹 [**StellarGuideAgent**](https://github.com/abdulazizatGitHub/StellarGuideAgent)  
+*An intelligent AI agent for **space data retrieval and visualization**, designed to assist researchers and educators by automating queries, analysis, and insights.*  
 
 ---
 
@@ -57,6 +66,23 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdulazizatGitHub&theme=radical" alt="GitHub Streak Stats"/>
 </p>
+
+---
+
+## 📈 Contribution Graph (snake)
+> The animated contribution-graph **snake** will appear below once the GitHub Action runs and commits the generated SVG to this repo.
+
+![Contribution snake](output/github-contribution-grid-snake.svg)
+
+> Optional (dark-mode): If you generate a dark-mode version add a second file `output/github-contribution-grid-snake-dark.svg` and replace the image block with the `<picture>` block below for automatic light/dark switching:
+>
+> ```html
+> <picture>
+>   <source media="(prefers-color-scheme: dark)" srcset="output/github-contribution-grid-snake-dark.svg" />
+>   <source media="(prefers-color-scheme: light)" srcset="output/github-contribution-grid-snake.svg" />
+>   <img alt="GitHub contribution grid snake" src="output/github-contribution-grid-snake.svg" />
+> </picture>
+> ```
 
 ---
 
